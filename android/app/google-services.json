@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52440901460",
+    "firebase_url": "https://hydra-study.firebaseio.com",
+    "project_id": "hydra-study",
+    "storage_bucket": "hydra-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52440901460:android:90b90640dc06dd74",
+        "android_client_info": {
+          "package_name": "com.dominickhera.hydrastudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52440901460-0duqv6ciasvlgqpcbni42dtnu78v2tmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQz9MpTmCMqxVk3VIEu_R_y-wja3JfJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

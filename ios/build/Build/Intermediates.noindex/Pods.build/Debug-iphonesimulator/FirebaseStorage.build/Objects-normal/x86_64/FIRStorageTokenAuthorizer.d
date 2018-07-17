@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/FIRStorageTokenAuthorizer.m \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTokenAuthorizer.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageErrors.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FirebaseStorage.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h \
+  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h
