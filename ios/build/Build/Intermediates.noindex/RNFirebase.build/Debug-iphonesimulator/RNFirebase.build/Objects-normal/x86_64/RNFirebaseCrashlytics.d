@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/fabric/crashlytics/RNFirebaseCrashlytics.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/fabric/crashlytics/RNFirebaseCrashlytics.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/fabric/crashlytics/RNFirebaseCrashlytics.m \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/fabric/crashlytics/RNFirebaseCrashlytics.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/Crashlytics.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSAttributes.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSLogging.h \

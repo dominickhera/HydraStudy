@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQueryManager.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQueryManager.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FImmutableTree.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTuplePathValue.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/FClock.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQueryManager.m \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQueryManager.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FImmutableTree.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTuplePathValue.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FClock.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h

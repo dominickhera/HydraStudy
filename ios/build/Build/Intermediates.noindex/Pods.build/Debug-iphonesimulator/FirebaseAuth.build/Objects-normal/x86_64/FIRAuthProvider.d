@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthProvider.m
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthProvider.m

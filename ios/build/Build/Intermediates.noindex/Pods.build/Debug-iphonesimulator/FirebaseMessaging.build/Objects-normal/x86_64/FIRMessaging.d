@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/FirebaseCore/FIRReachabilityChecker.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRReachabilityChecker.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

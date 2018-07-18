@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.h
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.m \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.h

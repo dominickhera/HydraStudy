@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.m \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabase.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseQuery.h \
@@ -9,17 +9,17 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRMutableData.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRTransactionResult.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRServerValue.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Users/Dominick/Desktop/react-native-firebase-starter/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \

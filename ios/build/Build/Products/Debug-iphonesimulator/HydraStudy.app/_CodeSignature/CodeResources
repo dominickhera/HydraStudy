@@ -6,7 +6,48 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		kqGYGyegunrIONHoVwha9Ewz4Xg=
+		yWYDstB8zH5Qm+HvZxKsvGhWiRY=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<data>
+		8CN5cCzwKl0+7ieNPMN/SawZQA8=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<data>
+		Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<data>
+		UU+vWjYvpE8lKAxV1lE2tUbIZA0=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<data>
+		znuKt4UiTOJWwzrlgwaYX94o/a4=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		uPxPInP5h9+ERgCm8NCXpuuMEmg=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		aHoR6mqqp0XWLqiw49+MRuFNQLk=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		DmGu9k7yBOLSfwtyNbn3zYir630=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -14,11 +55,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KIWlKbqE3c4wGckM3QkgweS5ako=
+		/IBwok688HAGm3iVaTESRNKrDQU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/HydraStudyTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		rhrM9ItmPrzG5Mq0KDxrXDkuCX0=
+		</data>
+		<key>PlugIns/HydraStudyTests.xctest.dSYM/Contents/Resources/DWARF/HydraStudyTests</key>
+		<data>
+		U8q9GqROeDEXfTqJv9wUH0fp4lw=
+		</data>
+		<key>PlugIns/HydraStudyTests.xctest/HydraStudyTests</key>
+		<data>
+		9C44GIuWUHrQvKQYOy+/cjDnp2M=
+		</data>
+		<key>PlugIns/HydraStudyTests.xctest/Info.plist</key>
+		<data>
+		CCk/U4JdyRjOqgFGq/ME3zdE6EU=
+		</data>
+		<key>PlugIns/HydraStudyTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		yX/S8f4LeS19jELljkRx57hjA1M=
 		</data>
 		<key>gRPCCertificates.bundle/Info.plist</key>
 		<data>
@@ -35,11 +96,112 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kqGYGyegunrIONHoVwha9Ewz4Xg=
+			yWYDstB8zH5Qm+HvZxKsvGhWiRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6zUROsxJQVEL+YDXDuQyIR+5udRp65q86/LdU8lnko0=
+			adEs8pZOsB5Kjvu9w1HwqWX/xOpsl2p84L8VcmyKfOk=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8CN5cCzwKl0+7ieNPMN/SawZQA8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/R1Uy1RZ7ljX2V8ZHMhD4g8ieWHns9sj34YDK2McvfY=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
+			</data>
+			<key>hash2</key>
+			<data>
+			IvG0kD54lYvEZzfjVmXtrtBdydTUy1uFZkZXUddfTzY=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UU+vWjYvpE8lKAxV1lE2tUbIZA0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ja3vToXIdN/BmsoAh4U4btDVl5lKbzndKf99CyxV6K4=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			znuKt4UiTOJWwzrlgwaYX94o/a4=
+			</data>
+			<key>hash2</key>
+			<data>
+			napzzKlhgK6Qoqz8QO+9TkyuIsW5V+s6GmClALe2lT4=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uPxPInP5h9+ERgCm8NCXpuuMEmg=
+			</data>
+			<key>hash2</key>
+			<data>
+			N77/gSJpnPT4ryPaR4IJ55aYyiiMCKjlq79qrCmGxU8=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aHoR6mqqp0XWLqiw49+MRuFNQLk=
+			</data>
+			<key>hash2</key>
+			<data>
+			unqlGEn5cq6B36PWWq/mAoeeub7L9yZ3vWK7mP9EscQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2JoYDV6DTsckEmF+l3Ruo1S1Iqk=
+			</data>
+			<key>hash2</key>
+			<data>
+			OXS9XX1oATlfFoPHZbc7OGt7HUXfXzNrCz28TkkBo/g=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DmGu9k7yBOLSfwtyNbn3zYir630=
+			</data>
+			<key>hash2</key>
+			<data>
+			2hnwNPgdaewT28DbTqe0Gpaccdc2akBF8IjnGtISc58=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -51,6 +213,61 @@
 			<key>hash2</key>
 			<data>
 			HtNSfIs2yQkav22A7RC2MssfDihngBaQO8fZxSqohJM=
+			</data>
+		</dict>
+		<key>PlugIns/HydraStudyTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rhrM9ItmPrzG5Mq0KDxrXDkuCX0=
+			</data>
+			<key>hash2</key>
+			<data>
+			MsI1hBK6PfKMcP4DT60Q9hzvP0UXZ+aW3Cs0xnxmIyc=
+			</data>
+		</dict>
+		<key>PlugIns/HydraStudyTests.xctest.dSYM/Contents/Resources/DWARF/HydraStudyTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U8q9GqROeDEXfTqJv9wUH0fp4lw=
+			</data>
+			<key>hash2</key>
+			<data>
+			cXEbekvTN28sIugUEvPKXGkm9+WJWdHSEoNuanW9tyA=
+			</data>
+		</dict>
+		<key>PlugIns/HydraStudyTests.xctest/HydraStudyTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9C44GIuWUHrQvKQYOy+/cjDnp2M=
+			</data>
+			<key>hash2</key>
+			<data>
+			SlKomQUpJCrRr3LdqO06GNj6/wN2gS/cByr7i+aGHWs=
+			</data>
+		</dict>
+		<key>PlugIns/HydraStudyTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CCk/U4JdyRjOqgFGq/ME3zdE6EU=
+			</data>
+			<key>hash2</key>
+			<data>
+			lKgld8nk6KHYFwknFyIGSxmnpv031idIfOKvjDC+aww=
+			</data>
+		</dict>
+		<key>PlugIns/HydraStudyTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yX/S8f4LeS19jELljkRx57hjA1M=
+			</data>
+			<key>hash2</key>
+			<data>
+			3mP16ta+zM8J3Hl1MPszN55JaVQQ97oJVcqQixav/bQ=
 			</data>
 		</dict>
 		<key>gRPCCertificates.bundle/Info.plist</key>

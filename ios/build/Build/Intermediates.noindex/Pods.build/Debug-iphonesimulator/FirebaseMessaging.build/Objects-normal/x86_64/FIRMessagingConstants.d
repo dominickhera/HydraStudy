@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.m \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h

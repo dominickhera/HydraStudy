@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m

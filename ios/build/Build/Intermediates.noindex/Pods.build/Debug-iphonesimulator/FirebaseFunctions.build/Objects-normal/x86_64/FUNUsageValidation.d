@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.m \
-  /Users/Dominick/Desktop/react-native-firebase-starter/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.h
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.m \
+  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.h
