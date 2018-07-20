@@ -31,6 +31,7 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \

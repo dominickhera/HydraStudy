@@ -2,6 +2,7 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextAttributes.m \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \

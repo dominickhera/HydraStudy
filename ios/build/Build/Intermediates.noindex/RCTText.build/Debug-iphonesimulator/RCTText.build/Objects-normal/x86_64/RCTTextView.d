@@ -21,4 +21,5 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextTransform.h

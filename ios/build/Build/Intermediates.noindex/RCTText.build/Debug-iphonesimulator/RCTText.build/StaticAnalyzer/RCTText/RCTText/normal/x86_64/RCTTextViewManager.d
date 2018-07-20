@@ -35,4 +35,5 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

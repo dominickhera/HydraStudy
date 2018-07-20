@@ -1,0 +1,3 @@
+# Referenced at /Users/Dominick/Desktop/HydraStudy/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.dominickhera.hydrastudy.MainApplication { <init>(...); }
+

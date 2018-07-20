@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Demangle.cpp \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Demangle.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/FBString.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Portability.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Config.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/CPortability.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Hash.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/ApplyTuple.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Bits.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/Builtins.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Assume.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitsDetail.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/BitIteratorDetail.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Demangle.cpp \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Demangle.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/FBString.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Hash.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/ApplyTuple.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Bits.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Builtins.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Assume.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitsDetail.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/BitIteratorDetail.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/iterator/iterator_adaptor.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/static_assert.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/config.hpp \
@@ -217,13 +217,13 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Likely.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV1.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/SpookyHashV2.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Malloc.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/detail/Malloc.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/portability/BitsFunctexcept.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Traits.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Likely.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV1.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/SpookyHashV2.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Malloc.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/Malloc.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Traits.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_cv.hpp \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/boost_1_63_0/boost/type_traits/add_rvalue_reference.hpp \

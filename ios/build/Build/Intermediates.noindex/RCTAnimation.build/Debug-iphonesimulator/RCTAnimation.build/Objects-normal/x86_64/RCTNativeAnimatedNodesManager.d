@@ -40,5 +40,6 @@ dependencies: \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
   /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
