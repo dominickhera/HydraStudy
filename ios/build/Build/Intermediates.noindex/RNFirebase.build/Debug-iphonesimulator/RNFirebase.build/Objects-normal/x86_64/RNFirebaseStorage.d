@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/storage/RNFirebaseStorage.m \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/storage/RNFirebaseStorage.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/storage/RNFirebaseStorage.m \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/storage/RNFirebaseStorage.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
@@ -201,5 +201,5 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
   ../../../ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.m \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.h
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.m \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.h

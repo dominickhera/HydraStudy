@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../ReactCommon/jschelpers/JSCWrapper.h
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h

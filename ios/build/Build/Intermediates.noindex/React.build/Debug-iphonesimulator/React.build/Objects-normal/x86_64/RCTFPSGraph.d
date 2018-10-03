@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Profiler/RCTFPSGraph.m \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Profiler/RCTFPSGraph.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTAssert.h
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Profiler/RCTFPSGraph.m \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Profiler/RCTFPSGraph.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTAssert.h

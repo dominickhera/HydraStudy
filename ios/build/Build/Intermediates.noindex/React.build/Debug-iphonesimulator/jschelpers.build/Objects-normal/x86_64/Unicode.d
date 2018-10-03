@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

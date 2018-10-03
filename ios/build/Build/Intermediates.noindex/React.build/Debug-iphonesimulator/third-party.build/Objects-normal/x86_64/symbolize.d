@@ -1,11 +1,10 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/utilities.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/base/mutex.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/logging.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/log_severity.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/glog/vlog_is_on.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/symbolize.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/utilities.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/base/mutex.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/glog/logging.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/glog/log_severity.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/glog/vlog_is_on.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/third-party/glog-0.3.4/src/demangle.h

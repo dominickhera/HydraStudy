@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.m \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/Wrap-leveldb/APLevelDB.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPendingPut.h
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.m \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/Wrap-leveldb/APLevelDB.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPendingPut.h

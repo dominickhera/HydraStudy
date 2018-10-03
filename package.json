@@ -26,6 +26,7 @@
     "react-native": "^0.56.0",
     "react-native-firebase": "^4.3.7",
     "react-native-ionicons": "^0.2.2",
+    "react-native-navigation": "^1.1.479",
     "react-navigation": "^2.7.0"
   }
 }

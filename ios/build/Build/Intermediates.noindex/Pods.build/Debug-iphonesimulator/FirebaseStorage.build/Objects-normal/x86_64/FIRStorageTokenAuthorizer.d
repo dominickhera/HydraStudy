@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/FIRStorageTokenAuthorizer.m \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTokenAuthorizer.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcherService.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageErrors.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FirebaseStorage.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/FIRStorageTokenAuthorizer.m \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTokenAuthorizer.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcherService.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageErrors.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FirebaseStorage.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native/React/Base/RCTVersion.h

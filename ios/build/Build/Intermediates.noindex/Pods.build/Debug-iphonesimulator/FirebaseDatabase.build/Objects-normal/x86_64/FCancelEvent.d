@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCancelEvent.m \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCancelEvent.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEvent.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRegistration.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCancelEvent.m \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCancelEvent.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEvent.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRegistration.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h

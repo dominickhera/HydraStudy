@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.m \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.m \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreCollectionReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FirebaseFirestore.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRCollectionReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRQuery.h \
@@ -20,18 +20,18 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRTimestamp.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRTransaction.h \
   ../../../ios/Pods/Headers/Public/FirebaseFirestore/FIRWriteBatch.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Dominick/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreDocumentReference.h \
-  /Users/Dominick/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/dominickhera/Desktop/HydraStudy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestore.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/firestore/RNFirebaseFirestoreDocumentReference.h \
+  /Users/dominickhera/Desktop/HydraStudy/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
